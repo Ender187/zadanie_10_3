@@ -1,0 +1,15 @@
+#carousel {
+	margin: auto;
+	width: 400px;
+	height: 300px;
+	border: 2px solid;
+	overflow: hidden;
+	position: relative;
+
+}
+li {
+	list-style-type: none;
+	
+	width: 400px;
+	height: 300px;
+}
